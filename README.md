@@ -8,4 +8,4 @@ Ce repository me sert de bac à sable d'entrainement afin de mieux maitriser les
 
 --> Ajout d'un fichier gitignore ✔️
 
---> Créer toi une nouvelle branche
+--> Nouvelle branche créé ✔️
