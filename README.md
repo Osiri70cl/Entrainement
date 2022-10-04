@@ -7,3 +7,5 @@ Ce repository me sert de bac à sable d'entrainement afin de mieux maitriser les
 --> test commande git pull fait ✔
 
 --> Ajout d'un fichier gitignore ✔️
+
+--> Créer toi une nouvelle branche
